@@ -46,7 +46,7 @@ class Page5 extends Component {
         this.q = 523.356;
     }
 
-    clickHandler() {
+    clickHandler() {        
         alert("button clicked")
     }
     
